@@ -1,0 +1,4 @@
+This vulnerability is of the SPA made in ReactJS and is similar to the serialise and deserialise vulnerability of PHP
+applications.
+
+Link : https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0
